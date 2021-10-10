@@ -1,0 +1,15 @@
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\bin\Release\RL Quick Chat.exe.config
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\bin\Release\RL Quick Chat.exe
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\bin\Release\RL Quick Chat.pdb
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL Quick Chat.csproj.AssemblyReference.cache
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL_Quick_Chat.Form1.resources
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL_Quick_Chat.Properties.Resources.resources
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL Quick Chat.csproj.GenerateResource.cache
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL Quick Chat.csproj.CoreCompileInputs.cache
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL Quick Chat.csproj.CopyComplete
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL Quick Chat.exe
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL Quick Chat.pdb
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\bin\Release\Newtonsoft.Json.xml
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL_Quick_Chat.Form2.resources
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\keirahela\Desktop\RL Quick Chat\RL Quick Chat\RL Quick Chat\obj\Release\RL Quick Chat.csproj.Fody.CopyLocal.cache
